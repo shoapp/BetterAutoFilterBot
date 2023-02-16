@@ -5,8 +5,8 @@
         "Filter",
         "Mongo DB"
     ],
-    "website": "https://github.com/0AIB",
-    "repository": "https://github.com/0AIB/BetterAutoFilterBot",
+    "website": "https://github.com/shoapp",
+    "repository": "https://github.com/shoapp/BetterAutoFilterBot",
     "success_url": "description": "A Filter Bot Which Doesnt Need Manuall Filter Adding",
     "logo": "https://github.com/0AIB/BetterAutoFilterBot",
     "env": {
@@ -44,7 +44,7 @@
     "formation": {
         "worker": {
             "quantity": 1,
-            "size": "free"
+            "size": "eco"
         }
     }
 }
