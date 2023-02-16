@@ -60,3 +60,9 @@ Selling The Codes To Other People For Money Is *Strictly Prohibited*.
 
  - Thanks To Dan For His Awsome [Libary](https://github.com/pyrogram/pyrogram)
  - Thanks To SpEcHiDe For His Awesome [DeleteMessagesRoBot](https://github.com/SpEcHiDe/DeleteMessagesRoBot)
+ 
+ 
+ <br><br>
+      <a href="https://heroku.com/deploy?template=https://github.com/shoapp/BetterAutoFilterBot" target="_blank">
+        <img height="30px" src="https://img.shields.io/badge/Deploy%20to-Heroku-orange"></a>
+    <br><br>
